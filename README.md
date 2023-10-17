@@ -12,7 +12,7 @@ One-Click Shopping: Mark items as purchased with a single touch, keeping your li
 
 # Screenshots
 
-![Screenshot](imgs/Screenshot.png)
+![Screenshot](imgs/Screenshot1.png)
 
 
  # Getting Started
