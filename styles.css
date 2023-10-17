@@ -7,6 +7,7 @@ html, body {
 }
 .container {
     display: flex;
+    width: 50%;
     flex-direction: column;
     max-width: 320px;
     margin: 30px auto;
