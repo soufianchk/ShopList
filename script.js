@@ -24,7 +24,7 @@ let clearButtonEl = document.getElementById("clear-button")
 clearButtonEl.addEventListener("click", function() {
     shoppingListEl.innerHTML = ""
     localStorage.removeItem("shoppingList")
-    
+
 });
 
 let ulEl = document.getElementById("shopping-list")
